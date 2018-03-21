@@ -42,4 +42,8 @@ Thumbs.db
 
 # Custom #
 ##########
-/node_modules
+node_modules
+
+# Lib #
+#########
+lib

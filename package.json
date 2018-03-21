@@ -1,5 +1,5 @@
 {
-  "name": "react-flickity-component",
+  "name": "@telemundo/react-flickity-component",
   "version": "2.0.0",
   "description": "react flickity component",
   "main": "./lib/index.js",
